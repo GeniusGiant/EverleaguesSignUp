@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02 a_Activation link</name>
+   <tag></tag>
+   <elementGuidId>6e1f587f-5847-4764-bd34-e664bc57964b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/p[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://url3277.everleagues.com/ls/click?upn=qGh8JnXjGPKyGOnBmhsRbPCo0lcmyZHTi4Mb-2FaqCSUgK8pL-2FZTM7tIiTXcG0eAj-2F-2FB8OYKKBj5u59tGjVnh-2BOniX1G8D8L8eKIUeSpfNu2kJoozVeyfKw1VIWUd-2FrCF2YoYDA-2Fgajjt3TwghvZ6GjJP-2Fm5Y4zTBXasCUxLI-2Fm1ArE8LcMtpA781NyUgTjVx91OwRsvg-2FY-2FjrKqnJ1mMQJTVgR1-2FM9a-2F4aNDWdO64EcqYq4D1fAcYZh0m1mmht-2BAs-2BCmGE9JYFveeYUAYh1RMLGchMDfr5rNWK-2FiQDm8sWUizUPvaOXfOSJkmzIgXQ-2BDw-2B-2FrMr9MAyaDcOsiITROj0gljNxOnPLhz9zpWL1ZRvGg-3Dm4WH_xQTIHI6VL1G6dg1-2F-2FnJCsTav5lyr-2FfoV7Pn-2Fc16rCY8P8YlHr8sP7FHahE0iwfL6REHpdv8B-2F6oRUPHM1RI-2FQ-2BQehTjAya87fK7fGUQvEMO0l2zEuGC5PDwiFO5UR-2Fn7pnilN6DaYIAs5zmpQA4o6qWy-2BwwROi9B-2FkoIyEYgiv9ufE7spnol6G6Tcn40za-2FhiWw67xyVDatoiEgK7aHrtscxVmuumLvnPIH-2BLLzOHkk-3D</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_other</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Activation link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/p[3]/a[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TC001 - Sign Up/TC003 - Open Email/iframe_EMAIL BODY</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Activation link')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Activation link']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://url3277.everleagues.com/ls/click?upn=qGh8JnXjGPKyGOnBmhsRbPCo0lcmyZHTi4Mb-2FaqCSUgK8pL-2FZTM7tIiTXcG0eAj-2F-2FB8OYKKBj5u59tGjVnh-2BOniX1G8D8L8eKIUeSpfNu2kJoozVeyfKw1VIWUd-2FrCF2YoYDA-2Fgajjt3TwghvZ6GjJP-2Fm5Y4zTBXasCUxLI-2Fm1ArE8LcMtpA781NyUgTjVx91OwRsvg-2FY-2FjrKqnJ1mMQJTVgR1-2FM9a-2F4aNDWdO64EcqYq4D1fAcYZh0m1mmht-2BAs-2BCmGE9JYFveeYUAYh1RMLGchMDfr5rNWK-2FiQDm8sWUizUPvaOXfOSJkmzIgXQ-2BDw-2B-2FrMr9MAyaDcOsiITROj0gljNxOnPLhz9zpWL1ZRvGg-3Dm4WH_xQTIHI6VL1G6dg1-2F-2FnJCsTav5lyr-2FfoV7Pn-2Fc16rCY8P8YlHr8sP7FHahE0iwfL6REHpdv8B-2F6oRUPHM1RI-2FQ-2BQehTjAya87fK7fGUQvEMO0l2zEuGC5PDwiFO5UR-2Fn7pnilN6DaYIAs5zmpQA4o6qWy-2BwwROi9B-2FkoIyEYgiv9ufE7spnol6G6Tcn40za-2FhiWw67xyVDatoiEgK7aHrtscxVmuumLvnPIH-2BLLzOHkk-3D']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+   </webElementXpaths>
+</WebElementEntity>
